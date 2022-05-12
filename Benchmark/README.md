@@ -22,7 +22,7 @@ A simple unoptimized per pixels rotozoomer screen in 50 FPS @ 1080x720
 
 ### Screenshot
 
-![Image text](/path/to/the/screenshot.png)
+![Image text](/SDL-Sources/blob/main/Benchmark/screenshot.png)
 
 ## License
 
